@@ -31,4 +31,4 @@ $ cd  $ANDROID_SDK_HOME
 $ git clone https://github.com/brunorozendo/android-skins.git skins
 ```
 
-Done! Now the skins are avaible on exec [get the PDF](https://developer.android.com/studio/run/emulator-commandline.html).
+Done! Now the skins are avaible on exec [emulator](https://developer.android.com/studio/run/emulator-commandline.html).
